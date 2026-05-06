@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hageebek/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Mosh Hageebek](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Mosh Hageebek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
